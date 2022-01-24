@@ -1,0 +1,16 @@
+Title,Genre,Movie Description,Availability,Rent Price,id
+Youth in Revolt,comedy,The Weinstein Company,rented,20.25,1
+You Will Meet a Tall Dark Stranger,comedy,Independent,available,13.75,2
+When in Rome,comedy,Disney,available,25.25,3
+What Happens in Vegas,comedy,Fox,rented,15.1,4
+Water For Elephants,drama,20th Century Fox,available,22.3,5
+WALL-E,animation,"WALL?E (Waste Allocation Load Lifter Earth-Class) is the last robot left on Earth, programmed to clean up the planet, one trash cube at a time. However, after 700 years, he's developed one little glitch?a personality. He's extremely curious, highly inquisitive, and a little lonely.",available,20.25,6
+Waitress,romance,Independent,available,13.75,7
+Waiting For Forever,romance,Independent,available,22.3,8
+Valentine's Day,comedy,Warner Bros.,rented,20.25,9
+Tyler Perry's Why Did I get Married,romance,Independent,available,13.75,10
+Spider-Man: Homecoming,action,"Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",available,25.25,11
+Good Will Hunting,drama,"Will Hunting, a genius in mathematics, solves all the difficult mathematical problems. When he faces an emotional crisis, he takes help from psychiatrist Dr Sean Maguireto, who helps him recover.",rented,15.1,12
+The Ugly Truth,comedy,Independent,available,22.3,13
+The Twilight Saga: New Moon,drama,Summit,rented,20.25,14
+The Time Traveler's Wife,drama,Paramount,available,13.75,15
